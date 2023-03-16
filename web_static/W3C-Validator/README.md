@@ -1,4 +1,4 @@
-# W3C validator for Holberton School
+# W3C validator for Best School
 
 For HTML and CSS files.
 
@@ -8,7 +8,9 @@ Based on 2 APIs:
 - http://jigsaw.w3.org/css-validator/validator
 
 ## Installation
+
 1. Clone this repo
+
 ```sh
 git clone https://github.com/holbertonschool/W3C-Validator.git
 ```
@@ -30,7 +32,6 @@ Multiple files:
 ```
 
 All errors are printed in `STDERR`; Exit status = # of errors (0 on success)
-
 
 ## References
 
